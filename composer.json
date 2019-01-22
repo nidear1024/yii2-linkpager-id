@@ -1,0 +1,21 @@
+{
+    "name": "zhanghuan66/yii2-linkpager-id",
+    "description": "create pagenation url links with #id, you can jump to the page for #id, example:http://www.xqw.com/music/1207.html?page=2#jump",
+    "type": "yii2-extension",
+    "require": {
+        "php": ">5.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zhang Huan",
+            "email": "979071732@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+	"autoload": {
+        "psr-4": {
+            "zhanghuan66\\": "src/"
+        }
+    }
+}
